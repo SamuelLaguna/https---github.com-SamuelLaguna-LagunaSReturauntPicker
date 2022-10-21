@@ -1,0 +1,15 @@
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\bin\Debug\net6.0\LAgunaSResturantPicker.exe
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\bin\Debug\net6.0\LAgunaSResturantPicker.deps.json
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\bin\Debug\net6.0\LAgunaSResturantPicker.runtimeconfig.json
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\bin\Debug\net6.0\LAgunaSResturantPicker.dll
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\bin\Debug\net6.0\LAgunaSResturantPicker.pdb
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\obj\Debug\net6.0\LAgunaSResturantPicker.csproj.AssemblyReference.cache
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\obj\Debug\net6.0\LAgunaSResturantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\obj\Debug\net6.0\LAgunaSResturantPicker.AssemblyInfoInputs.cache
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\obj\Debug\net6.0\LAgunaSResturantPicker.AssemblyInfo.cs
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\obj\Debug\net6.0\LAgunaSResturantPicker.csproj.CoreCompileInputs.cache
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\obj\Debug\net6.0\LAgunaSResturantPicker.dll
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\obj\Debug\net6.0\refint\LAgunaSResturantPicker.dll
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\obj\Debug\net6.0\LAgunaSResturantPicker.pdb
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\obj\Debug\net6.0\LAgunaSResturantPicker.genruntimeconfig.cache
+C:\Users\leris\https---github.com-SamuelLaguna-LagunaSReturauntPicker\obj\Debug\net6.0\ref\LAgunaSResturantPicker.dll
